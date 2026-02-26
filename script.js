@@ -3,8 +3,8 @@
    Optimized Version - Live Drive Sync (No Caching)
 ====================================================== */
 
-const API_KEY = "AIzaSyC35sqqZA1YaxZ-F4PJaDqQpKBxPyMKOzw";
-const FOLDER_ID = "1fDj4lVzWcrXJnIQnljrC4-_SBEEV1dlz";
+const API_KEY = "AIzaSyC_6UEJhSjWUnWaXlBpHy9MYiJAWiX5EBI";
+const FOLDER_ID = "1VwMKpxjmNMy02Roe_qEDG8Dw3lsgIveV";
 
 /* ===============================
    OPTIMIZED CHROMA KEY SHADER
